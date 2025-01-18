@@ -29,6 +29,7 @@ a {
   font-size: 60px;
   line-height: 72px;
   color: #3f96f3;
+  display: block;
 }
 
 .header__title {
@@ -46,8 +47,6 @@ a {
   margin: 28px 0 0 0;
   max-width: 683px;
   font-family: "Noto Serif", "Times New Roman", sans-serif;
-  font-style: normal;
-  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
 }
@@ -124,7 +123,6 @@ iframe {
   margin-bottom: 24px;
   margin-top: 0;
   font-family: "Inter", arial, sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -135,8 +133,6 @@ iframe {
   margin-bottom: 80px;
   margin-top: 0;
   font-family: "Noto Serif", "Times New Roman", sans-serif;
-  font-style: normal;
-  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
 }
