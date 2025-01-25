@@ -1,9 +1,9 @@
 .reservation {
   background-color: #d9e7ff;
   background-image: url("../images/background_reservation.svg");
-  height: 800px;
   background-size: cover;
   padding: 100px 0 120px;
+  background-position: center;
 }
 .reservation__title {
   margin: 0 0 80px;

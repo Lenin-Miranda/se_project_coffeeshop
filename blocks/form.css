@@ -17,6 +17,7 @@
   border-radius: 4px;
   color: #000;
   border: 1px solid #838383;
+  min-height: 60px;
 }
 .form__input::placeholder {
   font-family: "Inter", arial, sans-serif;
@@ -28,7 +29,6 @@
   border: none;
   padding: 20px 0;
   margin-bottom: 32px;
-  margin-top: 8px;
   color: #fff;
   border-radius: 4px;
   font-family: "Inter", arial, sans-serif;

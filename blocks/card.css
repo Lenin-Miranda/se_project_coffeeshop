@@ -1,9 +1,7 @@
 .card {
   width: 540px;
 }
-.card:last-of-type {
-  margin-top: 100px;
-}
+
 .card__title {
   margin: 0 0 32px;
 }

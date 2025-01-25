@@ -8,6 +8,9 @@
   flex-direction: column;
   padding: 30px 80px 40px;
   position: relative;
+  z-index: 1;
+  background-position: center;
+  box-sizing: border-box;
 }
 
 .header__span-accent {
@@ -45,6 +48,7 @@
   right: 5px;
   top: 124px;
   background-size: contain;
+  z-index: -1;
 }
 
 .header__footer {
